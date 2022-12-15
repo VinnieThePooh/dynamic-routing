@@ -3,7 +3,7 @@
 public class FolderViewModel
 {
     public string ParentPath { get; set; }
-    
+
     public string FullPath { get; set; }
 
     public string FolderName { get; set; }
